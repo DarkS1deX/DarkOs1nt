@@ -1,7 +1,7 @@
 
 ![DarkOs1nt](https://user-images.githubusercontent.com/117807235/201222047-58a71eae-49ff-49e8-adec-6f26dab50690.PNG)
 
-#Features
+# Features
 
 OSINT to Websites --> [WhatWeb, Whois, Advanced Port Scanner, Server Information, Attempt to Extract Real Server IP with CloudFlare, SSL Encryption, List All URLs of a Domain, WordPress Web Information, Extract Workers, Emails and Phone Numbers, List Domains, Google Dorks, Ping a Website from Multiple Countries].
 
@@ -19,7 +19,7 @@ OSINT to Websites --> [WhatWeb, Whois, Advanced Port Scanner, Server Information
 
 ☑️ OSINT to Images --> [Metadata, Google Search Engine, Image specific search engine, Enlarge an image x5 with almost no loss of Image quality]
 
-#Installation Instructions
+## Installation Instructions
 
 git clone https://github.com/DarkS1deX/DarkOs1nt.git
 
@@ -35,7 +35,7 @@ git clone https://github.com/DarkS1deX/DarkOs1nt.git
 
 9) We can now enjoy the
 
-#Please note
+## Please note
                                                                       
 [1] In the section ([0] Install and configure requirements) when we click on option 1 to install the requirements, it will ask us to set up a user who does not have root permissions; this step is very important, because if we set up a user with root permissions, or type it incorrectly, or set it double, the options to open a browser from the terminal will not work.
 
