@@ -21,7 +21,7 @@ OSINT to Websites --> [WhatWeb, Whois, Advanced Port Scanner, Server Information
 
 ## Installation Instructions
 
-git clone https://github.com/DarkS1deX/DarkOs1nt.git
+   git clone https://github.com/DarkS1deX/DarkOs1nt.git
 
 4) cd DarkOs1nt
 
